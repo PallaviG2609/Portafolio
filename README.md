@@ -28,7 +28,7 @@ This project is a simple HTML and CSS template for a personal portfolio. It incl
 - Basic structure for an about me section, projects, and contact information
 
 4.Setup
-- Clone the repository: 
+- Clone the repository: https://github.com/PallaviG2609/Portafolio.git
 - Open the index.html file in a web browser to view the portfolio.
 
 5.Usage
